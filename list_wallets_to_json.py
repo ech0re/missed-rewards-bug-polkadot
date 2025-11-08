@@ -165,7 +165,7 @@ for era in ERAS:
     }
 
 # Write the JSON file
-filename = "validators_list.json"
+filename = "wallets_list.json"
 with open(filename, 'w', encoding='utf-8') as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
