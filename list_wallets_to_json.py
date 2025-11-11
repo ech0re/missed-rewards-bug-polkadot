@@ -3,7 +3,7 @@
 import json
 from substrateinterface import SubstrateInterface
 
-ERAS = [1981, 1982, 1983, 1984]
+ERAS = [1981, 1982, 1983, 1984, 1985, 1986]
 RPC_ASSETHUB = "wss://dot-rpc.stakeworld.io/assethub"
 DOT_DECIMALS = 10
 PLANCK_PER_DOT = 10 ** DOT_DECIMALS
